@@ -2,14 +2,10 @@
 # coding:utf-8
 
 """
-Script that predicts news articles based on tweets
-
-Author: Karsten Kreis
-September 2015
+Script that predicts news articles based on tweets.
 """
 
-__author__ = "Karsten Kreis"
-__status__ = "Development"
+__author__ = "Ankesh"
 
 # Imports
 import sys
